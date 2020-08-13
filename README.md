@@ -4,8 +4,8 @@
   <a href="https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
-  <a href="https://twitter.com/cjdiaz" target="_blank">
-    <img alt="Twitter: cjdiaz" src="https://img.shields.io/twitter/follow/cjdiaz.svg?style=social" />
+  <a href="https://twitter.com/cardiadev" target="_blank">
+    <img alt="Twitter: cardiadev" src="https://img.shields.io/twitter/follow/cardiadev.svg?style=social" />
   </a>
 </p>
 
@@ -13,16 +13,16 @@
 
 > Clon del Front Page de Google | HTML & CSS
 
-### ✨ [Proyect](https://cjdiaz.github.io/google-clone/)
+### ✨ [Proyect](https://cardiadev.github.io/google-clone/)
 
 ## Author
 
 👤 **Carlos Diaz**
 
 * Website: https://carlosdiaz.dev/
-* Twitter: [@cjdiaz](https://twitter.com/cjdiaz)
-* Github: [@cjdiaz](https://github.com/cjdiaz)
-* LinkedIn: [@cjdiaz](https://linkedin.com/in/cjdiaz)
+* Twitter: [@cardiadev](https://twitter.com/cardiadev)
+* Github: [@cardiadev](https://github.com/cardiadev)
+* LinkedIn: [@cardiadev](https://linkedin.com/in/cardiadev)
 
 ## Show your support
 
@@ -30,7 +30,7 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-This project is [MIT](https://github.com/cjdiaz/google-clone/blob/master/LICENSE) licensed.
+This project is [MIT](https://github.com/cardiadev/google-clone/blob/master/LICENSE) licensed.
 
 ***
-_Copyright © 2020 | Made with ❤️ by [Carlos Diaz](https://github.com/cjdiaz)_
+_Copyright © 2020 | Made with ❤️ by [Carlos Diaz](https://github.com/cardiadev)_
